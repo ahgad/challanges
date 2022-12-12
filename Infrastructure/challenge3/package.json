@@ -1,0 +1,14 @@
+{
+    "name": "challenge3",
+    "version": "1.0.0",
+    "description": "KPMG challenge3",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "devDependencies": {
+        "mocha": "latest"
+    },
+    "author": "Ahmed Gad",
+    "license": "ISC"
+}
